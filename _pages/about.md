@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About the Archival / Preservation Ed SIG"
+title: "ArchiPrEd"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Welcome to the Archival / Preservation Education SIG of ALISE! We are interested
 
 Archival Education, Preservation Education
 ======
-Archival education has a fascinating history.
+A little history of archival education.
 
 a bit about archival education
 ------
