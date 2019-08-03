@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<p>ArchiPrEd has been an active SIG in ALISE since 2008, supporting educators with teaching resources. Its leaders include: Lynne Chase (2006-07, as Archival/Records Management Education), Cecelia Salvatore (2008, as Archives), Mary Choquette and Ken Lavender (2008-09, founders of ArchiPrEd), Mary Choquette (2010-2015, Convener), Rhonda Clark (2015-2017, Convener), Andrew Wertheimer (2017-18, Co-Convener), & Sarah Buchanan (2018--, Convener).</p>
+<p>ArchiPrEd has been an active SIG in ALISE since 2008, supporting educators with teaching resources and community. Its leaders include: Lynne Chase (2006-07, as Archival/Records Management Education), Cecelia Salvatore (2008, as Archives), Mary Choquette and Ken Lavender (2008-09, founders of ArchiPrEd), Mary Choquette (2010-2015, Convener), Rhonda Clark (2015-2017, Convener), Andrew Wertheimer (2017-18, Co-Convener), & Sarah Buchanan (2018--, Convener).</p>
 
 <p>SIG sessions at <a href="https://www.alise.org/2019-conference">ALISE 2019</a>:<br/>
   - "Archival Learning in a Global Context." Convener and Presenter: Sarah Buchanan (University of Missouri); Presenters: Reem Alkhaledi (University of North Texas), Andrea Copeland (IUPUI), Suliman Hawamdeh (University of North Texas), Johnathan Thayer (Queens College), Ayoung Yoon (IUPUI).</p>
