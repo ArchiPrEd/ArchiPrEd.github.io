@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Archival / Preservation Education SIG of ALISE"
+title                    : "Archival / Preservation Education"
 title_separator          : "-"
 name                     : &name "ArchiPrEd"
 description              : &description "Archival / Preservation Education"
